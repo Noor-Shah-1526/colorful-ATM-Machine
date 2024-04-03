@@ -7,7 +7,6 @@ import chalk from "chalk";
 let myBalance = 5000;
 let myPin = 1234;
 
-console.log("Ayan");
 
 //print welcom message
 console.log(chalk.blue("\n \tWelcome to code with Mahnoor - ATM Machine\n"));
