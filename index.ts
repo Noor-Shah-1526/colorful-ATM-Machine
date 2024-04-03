@@ -6,7 +6,7 @@ import chalk from "chalk";
 //Initialize user balance and pin code
 let myBalance = 5000;
 let myPin = 1234;
-
+console.log("shah");
 //print welcom message
 console.log(chalk.blue("\n \tWelcome to code with Mahnoor - ATM Machine\n"));
 
